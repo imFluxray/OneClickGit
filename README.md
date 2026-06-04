@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://via.placeholder.com/120x120/0969da/ffffff?text=1CG" alt="OneClickGit Logo" width="120" height="120" style="border-radius: 20px;" />
+<img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22120%22%20height%3D%22120%22%20viewBox%3D%220%200%20512%20512%22%3E%3Crect%20width%3D%22512%22%20height%3D%22512%22%20fill%3D%22none%22/%3E%3Cpath%20d%3D%22M120%20140%20H240%20V190%20H120%20Z%22%20fill%3D%22none%22%20stroke%3D%22%231e90ff%22%20stroke-width%3D%2212%22/%3E%3Crect%20x%3D%2296%22%20y%3D%22180%22%20width%3D%22320%22%20height%3D%22180%22%20rx%3D%2224%22%20fill%3D%22none%22%20stroke%3D%22%231e90ff%22%20stroke-width%3D%2212%22/%3E%3Cline%20x1%3D%22256%22%20y1%3D%2290%22%20x2%3D%22256%22%20y2%3D%22250%22%20stroke%3D%22white%22%20stroke-width%3D%2216%22/%3E%3Cpolygon%20points%3D%22256%2C60%20220%2C120%20292%2C120%22%20fill%3D%22white%22/%3E%3C/svg%3E" alt="OneClickGit Logo" width="120" height="120" />
 
 <h1>⚡ OneClickGit</h1>
 
@@ -11,8 +11,8 @@
 [![Release](https://img.shields.io/github/v/release/imFluxray/oneclickgit?style=for-the-badge&color=0969da&logo=github)](https://github.com/imFluxray/oneclickgit/releases)
 [![Downloads](https://img.shields.io/github/downloads/imFluxray/oneclickgit/total?style=for-the-badge&color=238636&logo=github)](https://github.com/imFluxray/oneclickgit/releases)
 [![Stars](https://img.shields.io/github/stars/imFluxray/oneclickgit?style=for-the-badge&color=f0c418&logo=github)](https://github.com/imFluxray/oneclickgit/stargazers)
-[![License](https://img.shields.io/github/license/imFluxray/oneclickgit?style=for-the-badge&color=da3633)](LICENSE)
-[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-blueviolet?style=for-the-badge&logo=electron)](https://github.com/imFluxray/oneclickgit/releases)
+[![License](https://img.shields.io/badge/license-MIT-da3633?style=for-the-badge)](LICENSE)
+[![Platform](https://img.shields.io/badge/platform-Windows-0078d4?style=for-the-badge&logo=windows)](https://github.com/imFluxray/oneclickgit/releases)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge&logo=git)](CONTRIBUTING.md)
 
 <br />
@@ -141,6 +141,8 @@ your-repo/
 
 ## 💾 Installation
 
+> **⚠️ OneClickGit currently supports Windows only.** macOS and Linux builds are planned — see the [Roadmap](#️-roadmap).
+
 <details>
 <summary><strong>🪟 Windows</strong></summary>
 
@@ -152,6 +154,8 @@ your-repo/
 4. Launch **OneClickGit** from the Start Menu or Desktop shortcut
 
 > **Note:** Windows may show a SmartScreen warning since the app isn't code-signed yet. Click **More Info → Run Anyway** to proceed.
+
+</details>
 
 </details>
 
@@ -267,7 +271,7 @@ Nope. Not at all. That's the whole point. OneClickGit talks directly to the GitH
 
 <br/>
 
-Yes. OAuth tokens are stored in your operating system's secure credential store (Keychain on macOS, Credential Manager on Windows, libsecret on Linux). They are never written to plain text files or sent anywhere other than GitHub's API.
+Yes. OAuth tokens are stored in your operating system's secure credential store (Credential Manager on Windows). They are never written to plain text files or sent anywhere other than GitHub's API.
 
 </details>
 
@@ -304,6 +308,15 @@ GitHub Enterprise support is on the roadmap! It's not available in the current r
 <br/>
 
 Files that were successfully uploaded before the failure will remain in the repo. OneClickGit will display which files succeeded and which failed. You can retry the failed files without re-uploading everything.
+
+</details>
+
+<details>
+<summary><strong>Will macOS and Linux be supported?</strong></summary>
+
+<br/>
+
+Yes, eventually! Cross-platform support is planned. Windows is the focus for now while the core feature set is being built out. Star the repo and watch for release announcements.
 
 </details>
 
@@ -345,6 +358,8 @@ OneClickGit is a desktop GUI app intended for manual use. For automation, script
 
 ### 📋 Planned
 
+- [ ] macOS support
+- [ ] Linux support
 - [ ] GitHub Enterprise support
 - [ ] GitLab support
 - [ ] Gitea / self-hosted support
@@ -371,7 +386,7 @@ Fork it → Branch it → Build it → PR it → Ship it 🚀
 
 ```bash
 # 1. Fork the repo on GitHub, then clone your fork
-git clone https://github.com/imFluxray/oneclickgit.git
+git clone https://github.com/YOUR_USERNAME/oneclickgit.git
 cd oneclickgit
 
 # 2. Create a feature branch
