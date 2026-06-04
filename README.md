@@ -8,7 +8,7 @@
 
 <p><em>No Git. No terminal. No stress. Just click.</em></p>
 
-[![Release](https://img.shields.io/github/v/release/imFluxray/OneClickGit?style=for-the-badge&color=0969da&logo=github)](https://github.com/imFluxray/OneClickGit/releases)
+[![Release](https://img.shields.io/github/v/release/imFluxray/OneClickGit?include_prereleases&style=for-the-badge&color=0969da&logo=github)](https://github.com/imFluxray/OneClickGit/releases)
 [![Downloads](https://img.shields.io/github/downloads/imFluxray/OneClickGit/total?style=for-the-badge&color=238636&logo=github)](https://github.com/imFluxray/OneClickGit/releases)
 [![Stars](https://img.shields.io/github/stars/imFluxray/OneClickGit?style=for-the-badge&color=f0c418&logo=github)](https://github.com/imFluxray/OneClickGit/stargazers)
 [![License](https://img.shields.io/badge/license-MIT-da3633?style=for-the-badge)](LICENSE)
