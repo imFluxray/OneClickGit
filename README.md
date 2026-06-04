@@ -219,24 +219,6 @@ Follow these steps to go from zero to committed in under a minute:
 
 ---
 
-## 📸 Screenshots
-
-<div align="center">
-
-| Main Window | Repository & Branch Selector |
-|:-----------:|:----------------------------:|
-| ![Main Window](https://via.placeholder.com/480x320/0d1117/58a6ff?text=Main+Window+Screenshot) | ![Repo Selector](https://via.placeholder.com/480x320/0d1117/58a6ff?text=Repo+%26+Branch+Selector) |
-
-| Upload Progress | Settings Panel |
-|:-----------:|:----------------------------:|
-| ![Upload Progress](https://via.placeholder.com/480x320/0d1117/58a6ff?text=Upload+Progress+View) | ![Settings](https://via.placeholder.com/480x320/0d1117/58a6ff?text=Settings+Panel) |
-
-</div>
-
-> 📌 *Replace placeholder images with actual screenshots before publishing.*
-
----
-
 ## ⚙️ Settings
 
 OneClickGit includes a built-in Settings panel with the following options:
