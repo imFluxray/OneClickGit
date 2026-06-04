@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22120%22%20height%3D%22120%22%20viewBox%3D%220%200%20512%20512%22%3E%3Crect%20width%3D%22512%22%20height%3D%22512%22%20fill%3D%22none%22/%3E%3Cpath%20d%3D%22M120%20140%20H240%20V190%20H120%20Z%22%20fill%3D%22none%22%20stroke%3D%22%231e90ff%22%20stroke-width%3D%2212%22/%3E%3Crect%20x%3D%2296%22%20y%3D%22180%22%20width%3D%22320%22%20height%3D%22180%22%20rx%3D%2224%22%20fill%3D%22none%22%20stroke%3D%22%231e90ff%22%20stroke-width%3D%2212%22/%3E%3Cline%20x1%3D%22256%22%20y1%3D%2290%22%20x2%3D%22256%22%20y2%3D%22250%22%20stroke%3D%22white%22%20stroke-width%3D%2216%22/%3E%3Cpolygon%20points%3D%22256%2C60%20220%2C120%20292%2C120%22%20fill%3D%22white%22/%3E%3C/svg%3E" alt="OneClickGit Logo" width="120" height="120" />
+<img src="https://raw.githubusercontent.com/imFluxray/OneClickGit/main/assets/logo.svg" alt="OneClickGit Logo" width="120" height="120" />
 
 <h1>⚡ OneClickGit</h1>
 
