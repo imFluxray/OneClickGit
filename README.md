@@ -175,10 +175,10 @@ cd oneclickgit
 npm install
 
 # Start in development mode
-npm run dev
+npm run tauri dev
 
 # Build for your current platform
-npm run build
+npm run tauri build
 ```
 
 Built binaries will appear in the `dist/` folder.
