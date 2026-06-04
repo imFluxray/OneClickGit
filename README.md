@@ -440,6 +440,6 @@ Just don't remove the license header. That's it. That's the rule.
 
 Made with ❤️ and a deep personal hatred of typing `git push`
 
-<sub>© 2024 OneClickGit Contributors · <a href="LICENSE">MIT License</a> · <a href="https://github.com/imFluxray/OneClickGit/issues">Issues</a> · <a href="https://github.com/imFluxray/OneClickGit/discussions">Discussions</a></sub>
+<sub>© 2026 OneClickGit Contributors · <a href="LICENSE">MIT License</a> · <a href="https://github.com/imFluxray/OneClickGit/issues">Issues</a> · <a href="https://github.com/imFluxray/OneClickGit/discussions">Discussions</a></sub>
 
 </div>
