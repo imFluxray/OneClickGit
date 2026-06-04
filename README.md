@@ -354,7 +354,7 @@ OneClickGit is a desktop GUI app intended for manual use. For automation, script
 
 - [ ] Upload history / recent uploads log
 - [ ] Multi-account GitHub support
-- [ ] Dark/light/system theme toggle
+- [x] Dark/light/system theme toggle
 
 ### 📋 Planned
 
