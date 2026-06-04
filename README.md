@@ -8,16 +8,16 @@
 
 <p><em>No Git. No terminal. No stress. Just click.</em></p>
 
-[![Release](https://img.shields.io/github/v/release/imFluxray/oneclickgit?style=for-the-badge&color=0969da&logo=github)](https://github.com/imFluxray/oneclickgit/releases)
-[![Downloads](https://img.shields.io/github/downloads/imFluxray/oneclickgit/total?style=for-the-badge&color=238636&logo=github)](https://github.com/imFluxray/oneclickgit/releases)
-[![Stars](https://img.shields.io/github/stars/imFluxray/oneclickgit?style=for-the-badge&color=f0c418&logo=github)](https://github.com/imFluxray/oneclickgit/stargazers)
+[![Release](https://img.shields.io/github/v/release/imFluxray/OneClickGit?style=for-the-badge&color=0969da&logo=github)](https://github.com/imFluxray/OneClickGit/releases)
+[![Downloads](https://img.shields.io/github/downloads/imFluxray/OneClickGit/total?style=for-the-badge&color=238636&logo=github)](https://github.com/imFluxray/OneClickGit/releases)
+[![Stars](https://img.shields.io/github/stars/imFluxray/OneClickGit?style=for-the-badge&color=f0c418&logo=github)](https://github.com/imFluxray/OneClickGit/stargazers)
 [![License](https://img.shields.io/badge/license-MIT-da3633?style=for-the-badge)](LICENSE)
-[![Platform](https://img.shields.io/badge/platform-Windows-0078d4?style=for-the-badge&logo=windows)](https://github.com/imFluxray/oneclickgit/releases)
+[![Platform](https://img.shields.io/badge/platform-Windows-0078d4?style=for-the-badge&logo=windows)](https://github.com/imFluxray/OneClickGit/releases)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge&logo=git)](CONTRIBUTING.md)
 
 <br />
 
-[🚀 Download Now](#-installation) · [📖 Documentation](#-usage-walkthrough) · [🐛 Report a Bug](https://github.com/imFluxray/oneclickgit/issues) · [💡 Request a Feature](https://github.com/imFluxray/oneclickgit/issues)
+[🚀 Download Now](#-installation) · [📖 Documentation](#-usage-walkthrough) · [🐛 Report a Bug](https://github.com/imFluxray/OneClickGit/issues) · [💡 Request a Feature](https://github.com/imFluxray/OneClickGit/issues)
 
 </div>
 
@@ -148,7 +148,7 @@ your-repo/
 
 <br/>
 
-1. Go to the [Releases](https://github.com/imFluxray/oneclickgit/releases/latest) page
+1. Go to the [Releases](https://github.com/imFluxray/OneClickGit/releases/latest) page
 2. Download `OneClickGit-Setup-x.x.x.exe`
 3. Run the installer
 4. Launch **OneClickGit** from the Start Menu or Desktop shortcut
@@ -168,8 +168,8 @@ your-repo/
 
 ```bash
 # Clone the repository
-git clone https://github.com/imFluxray/oneclickgit.git
-cd oneclickgit
+git clone https://github.com/imFluxray/OneClickGit.git
+cd OneClickGit
 
 # Install dependencies
 npm install
@@ -280,7 +280,7 @@ Yes. As long as your GitHub account has write access to the repository, OneClick
 
 <br/>
 
-GitHub Enterprise support is on the roadmap! It's not available in the current release. Track progress in [#42](https://github.com/imFluxray/oneclickgit/issues/42).
+GitHub Enterprise support is on the roadmap! It's not available in the current release. Track progress in [#42](https://github.com/imFluxray/OneClickGit/issues/42).
 
 </details>
 
@@ -352,7 +352,7 @@ OneClickGit is a desktop GUI app intended for manual use. For automation, script
 - [ ] Browser extension
 - [ ] Mobile app (iOS / Android)
 
-> 💡 Have an idea? [Open a feature request](https://github.com/imFluxray/oneclickgit/issues/new?template=feature_request.md) — we actually read them.
+> 💡 Have an idea? [Open a feature request](https://github.com/imFluxray/OneClickGit/issues/new?template=feature_request.md) — we actually read them.
 
 ---
 
@@ -368,8 +368,8 @@ Fork it → Branch it → Build it → PR it → Ship it 🚀
 
 ```bash
 # 1. Fork the repo on GitHub, then clone your fork
-git clone https://github.com/YOUR_USERNAME/oneclickgit.git
-cd oneclickgit
+git clone https://github.com/YOUR_USERNAME/OneClickGit.git
+cd OneClickGit
 
 # 2. Create a feature branch
 git checkout -b feature/your-amazing-feature
@@ -396,8 +396,8 @@ git push origin feature/your-amazing-feature
 
 **Ways to contribute beyond code:**
 
-- 🐛 [Report bugs](https://github.com/imFluxray/oneclickgit/issues/new?template=bug_report.md)
-- 💡 [Suggest features](https://github.com/imFluxray/oneclickgit/issues/new?template=feature_request.md)
+- 🐛 [Report bugs](https://github.com/imFluxray/OneClickGit/issues/new?template=bug_report.md)
+- 💡 [Suggest features](https://github.com/imFluxray/OneClickGit/issues/new?template=feature_request.md)
 - 📖 Improve documentation
 - 🌍 Add or improve translations
 - ⭐ Star the repo (the most underrated contribution)
@@ -434,12 +434,12 @@ Just don't remove the license header. That's it. That's the rule.
 
 *It takes 2 seconds and it means the world to open-source maintainers.*
 
-[![Star on GitHub](https://img.shields.io/github/stars/imFluxray/oneclickgit?style=social)](https://github.com/imFluxray/oneclickgit)
+[![Star on GitHub](https://img.shields.io/github/stars/imFluxray/OneClickGit?style=social)](https://github.com/imFluxray/OneClickGit)
 
 <br />
 
 Made with ❤️ and a deep personal hatred of typing `git push`
 
-<sub>© 2024 OneClickGit Contributors · <a href="LICENSE">MIT License</a> · <a href="https://github.com/imFluxray/oneclickgit/issues">Issues</a> · <a href="https://github.com/imFluxray/oneclickgit/discussions">Discussions</a></sub>
+<sub>© 2024 OneClickGit Contributors · <a href="LICENSE">MIT License</a> · <a href="https://github.com/imFluxray/OneClickGit/issues">Issues</a> · <a href="https://github.com/imFluxray/OneClickGit/discussions">Discussions</a></sub>
 
 </div>
