@@ -394,7 +394,7 @@ git checkout -b feature/your-amazing-feature
 
 # 3. Install dependencies and run in dev mode
 npm install
-npm run dev
+npm run tauri dev
 
 # 4. Make your changes, then commit
 git commit -m "feat: add your amazing feature"
@@ -420,7 +420,7 @@ git push origin feature/your-amazing-feature
 - 🌍 Add or improve translations
 - ⭐ Star the repo (the most underrated contribution)
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) before contributing.
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) before contributing.
 
 ---
 
