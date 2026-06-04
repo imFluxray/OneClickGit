@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/imFluxray/OneClickGit/main/assets/logo.svg" alt="OneClickGit Logo" width="120" height="120" />
 
-<h1>⚡ OneClickGit</h1>
+<h1>OneClickGit</h1>
 
 <p><strong>Upload files and folders to GitHub with a single click.</strong></p>
 
