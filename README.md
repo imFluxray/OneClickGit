@@ -8,16 +8,16 @@
 
 <p><em>No Git. No terminal. No stress. Just click.</em></p>
 
-[![Release](https://img.shields.io/github/v/release/yourname/oneclickgit?style=for-the-badge&color=0969da&logo=github)](https://github.com/yourname/oneclickgit/releases)
-[![Downloads](https://img.shields.io/github/downloads/yourname/oneclickgit/total?style=for-the-badge&color=238636&logo=github)](https://github.com/yourname/oneclickgit/releases)
-[![Stars](https://img.shields.io/github/stars/yourname/oneclickgit?style=for-the-badge&color=f0c418&logo=github)](https://github.com/yourname/oneclickgit/stargazers)
-[![License](https://img.shields.io/github/license/yourname/oneclickgit?style=for-the-badge&color=da3633)](LICENSE)
-[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-blueviolet?style=for-the-badge&logo=electron)](https://github.com/yourname/oneclickgit/releases)
+[![Release](https://img.shields.io/github/v/release/imFluxray/oneclickgit?style=for-the-badge&color=0969da&logo=github)](https://github.com/imFluxray/oneclickgit/releases)
+[![Downloads](https://img.shields.io/github/downloads/imFluxray/oneclickgit/total?style=for-the-badge&color=238636&logo=github)](https://github.com/imFluxray/oneclickgit/releases)
+[![Stars](https://img.shields.io/github/stars/imFluxray/oneclickgit?style=for-the-badge&color=f0c418&logo=github)](https://github.com/imFluxray/oneclickgit/stargazers)
+[![License](https://img.shields.io/github/license/imFluxray/oneclickgit?style=for-the-badge&color=da3633)](LICENSE)
+[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-blueviolet?style=for-the-badge&logo=electron)](https://github.com/imFluxray/oneclickgit/releases)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge&logo=git)](CONTRIBUTING.md)
 
 <br />
 
-[🚀 Download Now](#-installation) · [📖 Documentation](#-usage-walkthrough) · [🐛 Report a Bug](https://github.com/yourname/oneclickgit/issues) · [💡 Request a Feature](https://github.com/yourname/oneclickgit/issues)
+[🚀 Download Now](#-installation) · [📖 Documentation](#-usage-walkthrough) · [🐛 Report a Bug](https://github.com/imFluxray/oneclickgit/issues) · [💡 Request a Feature](https://github.com/imFluxray/oneclickgit/issues)
 
 </div>
 
@@ -146,49 +146,12 @@ your-repo/
 
 <br/>
 
-1. Go to the [Releases](https://github.com/yourname/oneclickgit/releases/latest) page
+1. Go to the [Releases](https://github.com/imFluxray/oneclickgit/releases/latest) page
 2. Download `OneClickGit-Setup-x.x.x.exe`
 3. Run the installer
 4. Launch **OneClickGit** from the Start Menu or Desktop shortcut
 
 > **Note:** Windows may show a SmartScreen warning since the app isn't code-signed yet. Click **More Info → Run Anyway** to proceed.
-
-</details>
-
-<details>
-<summary><strong>🍎 macOS</strong></summary>
-
-<br/>
-
-1. Go to the [Releases](https://github.com/yourname/oneclickgit/releases/latest) page
-2. Download `OneClickGit-x.x.x.dmg`
-3. Open the `.dmg` and drag **OneClickGit** to your Applications folder
-4. On first launch, right-click the app → **Open** to bypass Gatekeeper
-
-> **Apple Silicon (M1/M2/M3):** Download the `arm64` build for best performance.
-
-</details>
-
-<details>
-<summary><strong>🐧 Linux</strong></summary>
-
-<br/>
-
-**AppImage (recommended — works everywhere):**
-```bash
-chmod +x OneClickGit-x.x.x.AppImage
-./OneClickGit-x.x.x.AppImage
-```
-
-**Debian / Ubuntu (.deb):**
-```bash
-sudo dpkg -i oneclickgit_x.x.x_amd64.deb
-```
-
-**Fedora / RHEL (.rpm):**
-```bash
-sudo rpm -i oneclickgit-x.x.x.x86_64.rpm
-```
 
 </details>
 
@@ -201,7 +164,7 @@ sudo rpm -i oneclickgit-x.x.x.x86_64.rpm
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourname/oneclickgit.git
+git clone https://github.com/imFluxray/oneclickgit.git
 cd oneclickgit
 
 # Install dependencies
@@ -331,7 +294,7 @@ Yes. As long as your GitHub account has write access to the repository, OneClick
 
 <br/>
 
-GitHub Enterprise support is on the roadmap! It's not available in the current release. Track progress in [#42](https://github.com/yourname/oneclickgit/issues/42).
+GitHub Enterprise support is on the roadmap! It's not available in the current release. Track progress in [#42](https://github.com/imFluxray/oneclickgit/issues/42).
 
 </details>
 
@@ -392,7 +355,7 @@ OneClickGit is a desktop GUI app intended for manual use. For automation, script
 - [ ] Browser extension
 - [ ] Mobile app (iOS / Android)
 
-> 💡 Have an idea? [Open a feature request](https://github.com/yourname/oneclickgit/issues/new?template=feature_request.md) — we actually read them.
+> 💡 Have an idea? [Open a feature request](https://github.com/imFluxray/oneclickgit/issues/new?template=feature_request.md) — we actually read them.
 
 ---
 
@@ -408,7 +371,7 @@ Fork it → Branch it → Build it → PR it → Ship it 🚀
 
 ```bash
 # 1. Fork the repo on GitHub, then clone your fork
-git clone https://github.com/YOUR_USERNAME/oneclickgit.git
+git clone https://github.com/imFluxray/oneclickgit.git
 cd oneclickgit
 
 # 2. Create a feature branch
@@ -436,8 +399,8 @@ git push origin feature/your-amazing-feature
 
 **Ways to contribute beyond code:**
 
-- 🐛 [Report bugs](https://github.com/yourname/oneclickgit/issues/new?template=bug_report.md)
-- 💡 [Suggest features](https://github.com/yourname/oneclickgit/issues/new?template=feature_request.md)
+- 🐛 [Report bugs](https://github.com/imFluxray/oneclickgit/issues/new?template=bug_report.md)
+- 💡 [Suggest features](https://github.com/imFluxray/oneclickgit/issues/new?template=feature_request.md)
 - 📖 Improve documentation
 - 🌍 Add or improve translations
 - ⭐ Star the repo (the most underrated contribution)
@@ -474,12 +437,12 @@ Just don't remove the license header. That's it. That's the rule.
 
 *It takes 2 seconds and it means the world to open-source maintainers.*
 
-[![Star on GitHub](https://img.shields.io/github/stars/yourname/oneclickgit?style=social)](https://github.com/yourname/oneclickgit)
+[![Star on GitHub](https://img.shields.io/github/stars/imFluxray/oneclickgit?style=social)](https://github.com/imFluxray/oneclickgit)
 
 <br />
 
 Made with ❤️ and a deep personal hatred of typing `git push`
 
-<sub>© 2024 OneClickGit Contributors · <a href="LICENSE">MIT License</a> · <a href="https://github.com/yourname/oneclickgit/issues">Issues</a> · <a href="https://github.com/yourname/oneclickgit/discussions">Discussions</a></sub>
+<sub>© 2024 OneClickGit Contributors · <a href="LICENSE">MIT License</a> · <a href="https://github.com/imFluxray/oneclickgit/issues">Issues</a> · <a href="https://github.com/imFluxray/oneclickgit/discussions">Discussions</a></sub>
 
 </div>
