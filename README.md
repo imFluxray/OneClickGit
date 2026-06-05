@@ -9,7 +9,7 @@
 
 <p><em>No Git. No terminal. No stress. Just click.</em></p>
 
-<a href="https://www.producthunt.com/products/focuznow/reviews/new?utm_source=badge-product_review&utm_medium=badge&utm_source=badge-focuznow" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/product_review.svg?product_id=1231966&theme=light" alt="Focuznow - Get&#0032;back&#0032;your&#0032;hours | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+<a href="https://www.producthunt.com/products/oneclickgit?embed=true&amp;utm_source=badge-featured&amp;utm_medium=badge&amp;utm_campaign=badge-oneclickgit" target="_blank" rel="noopener noreferrer"><img alt="OneClickGit - No Git. No terminal. No stress. Just click. | Product Hunt" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1163735&amp;theme=dark&amp;t=1780696555486"></a>
 
 [![Release](https://img.shields.io/github/v/release/imFluxray/OneClickGit?include_prereleases&style=for-the-badge&color=0969da&logo=github)](https://github.com/imFluxray/OneClickGit/releases)
 [![Downloads](https://img.shields.io/github/downloads/imFluxray/OneClickGit/total?style=for-the-badge&color=238636&logo=github)](https://github.com/imFluxray/OneClickGit/releases)
